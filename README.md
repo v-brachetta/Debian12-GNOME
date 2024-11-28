@@ -4,6 +4,6 @@ This repository provides detailed information about the metapackages of GNOME av
 
 ## sudo apt-get install gnome-shell
 
-sudo apt-get install gnome-core
+## sudo apt-get install gnome-core
 
-sudo apt-get install gnome
+## sudo apt-get install gnome
