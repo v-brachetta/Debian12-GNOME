@@ -1,7 +1,7 @@
 # Info on metapackages of GNOME
 ### Debian12-GNOME_installinfo
 
-This small repository provides detailed information about the metapackages of GNOME available for the installation in Debian 12 Bookworm. Its purpose is to offer clear guidance to those interested in installing GNOME and to present a comprehensive list of packages associated with each metapackage. Furthermore, screenshots are included to assist users in understanding how their system will appear upon completing the installation.
+This small repository provides detailed information about the metapackages of GNOME available for the installation in Debian 12 Bookworm. Its purpose is to offer clear guidance to those interested in installing GNOME by presenting a comprehensive list of packages associated with each metapackage. Furthermore, screenshots are included to assist users in understanding how their system will appear upon completing the installation.
 
 ## sudo apt-get install gnome-shell
 Installs only the GNOME Shell, which provides the main interface for the GNOME desktop environment.
