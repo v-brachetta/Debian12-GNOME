@@ -1,5 +1,5 @@
-# Info on metapackages of GNOME
-### Debian12-GNOME_installinfo
+# Info on metapackages of GNOME 43 (default on Debian 12 Bookworm)
+### Debian12-GNOME43-metapackages-info
 
 This small repository provides detailed information about the metapackages of GNOME available for the installation in Debian 12 Bookworm. Its purpose is to offer clear guidance to those interested in installing GNOME by presenting a comprehensive list of packages associated with each metapackage. Furthermore, screenshots are included to assist users in understanding how their system will appear upon completing the installation.
 
